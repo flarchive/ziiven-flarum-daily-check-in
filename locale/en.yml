@@ -1,0 +1,11 @@
+ziven-checkin:
+  forum:
+    check-in: Check In
+    checked-in-day: Checked In {count} Day
+    checked-in-days: Checked In {count} Days
+    check-in-success: Checked In 
+  admin:
+    settings:
+      timezone: Timezone
+      reward-money: Check in reward
+      reward-money-requirement: Requires the <code>antoinefr/flarum-ext-money</code> extension
